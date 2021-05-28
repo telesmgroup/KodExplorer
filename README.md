@@ -1,5 +1,5 @@
 # KodExplorer
-> ##### [Download](https://github.com/telesmgroup/KodExplorer/archive/refs/heads/master.zip) | [Demo](https://demo.kodcloud.com/)  
+> ##### [Download](https://github.com/telesmgroup/KodExplorer/archive/refs/heads/master.zip) | [Demo](https://demo.kodcloud.com/) [user: demo/demo]  
 ----
 
 
