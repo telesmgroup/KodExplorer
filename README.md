@@ -79,13 +79,13 @@
 
 **1. Install from source**
 ```
-git clone https://github.com/kalcaddle/KODExplorer.git
+git clone https://github.com/telesmgroup/KODExplorer.git
 chmod -Rf 777 ./KODExplorer/*
 ```
 
 **2. Install via download**
 ```
-wget https://github.com/kalcaddle/KODExplorer/archive/master.zip
+wget https://github.com/telesmgroup/KodExplorer/archive/refs/heads/master.zip
 unzip master.zip
 chmod -Rf 777 ./*
 ```
