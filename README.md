@@ -1,9 +1,5 @@
 # KodExplorer
-
 > ##### [Download](https://github.com/telesmgroup/KodExplorer/archive/refs/heads/master.zip) | [Demo](https://demo.kodcloud.com/)  
-> *It is recommended to use a new design upgrade product:kodbox* 
-> *该项目处于维护阶段,不再开发新功能.推荐使用全新设计升级产品kodbox* 
-
 ----
 
 
